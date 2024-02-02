@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<diagram version="1" name="prueba">
+	<entities>
+		<data-source id="sqlite_jdbc-18d58665b9e-4cf4d37b976eba47">
+			<entity id="1" name="producto" fq-name="producto"/>
+			<entity id="2" name="cliente" fq-name="cliente"/>
+			<entity id="3" name="orden" fq-name="orden"/>
+			<entity id="4" name="categoria" fq-name="categoria"/>
+			<entity id="5" name="proveedor" fq-name="proveedor"/>
+			<entity id="6" name="reseña" fq-name="reseña"/>
+		</data-source>
+	</entities>
+	<relations/>
+</diagram>
